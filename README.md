@@ -68,4 +68,4 @@ python3 -m unittest tests.test_threads -v
 
 ## License
 
-Apache License 2.0. See `LICENSE`. Copyright 2026 Captain.
+Apache License 2.0. See `LICENSE`. Copyright 2026 J.P. Picard aka Macro-Harder.
